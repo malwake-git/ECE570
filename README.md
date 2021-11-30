@@ -1,5 +1,5 @@
 # ECE570
 
-ECE 57000 Assignments - Fall 2021
+ECE 57000 Assignments (Artificial Intelligence) - Fall 2021
 
 (IF YOU ARE A PURDUE STUDENT PLEASE DO THE HW YOURSELF)
